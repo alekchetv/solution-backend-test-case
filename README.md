@@ -4,6 +4,8 @@ REST API на Django + DRF, которое возвращает категори
 **опубликованных** блюд (`is_publish=True`). Категории без опубликованных блюд
 в выборку не попадают.
 
+- **Вью:** [`api/views.py`](https://github.com/alekchetv/solution-backend-test-case/blob/main/api/views.py)
+
 ## Стек
 
 - Python 3.14
